@@ -1,6 +1,6 @@
 <br>
 
-<img align="left" width="120" height="120" src="https://github.com/exercism/website-icons/blob/main/tracks/go.svg">
+<img align="left" width="100" height="100" src="https://github.com/exercism/website-icons/blob/main/tracks/go.svg">
 <p vertical-align="middle"><h1>Exercism Go Track</h1></p>
 
 <br>
