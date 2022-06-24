@@ -21,15 +21,15 @@ Exercises are grouped into **concept** exercises which teach the [Go syllabus][g
 🌟🌟&nbsp; Please take a moment to read our [Code of Conduct][exercism-code-of-conduct].&nbsp;🌟🌟&nbsp;  
 It might also be helpful to look at [Being a Good Community Member][being-a-good-community-member], [The words that we use][the-words-that-we-use], and [Pull Requests][prs].
 
-&nbsp;&nbsp;&nbsp;&nbsp;Some defined roles in our community:  [Contributors][exercism-contributors] **|** [Mentors][exercism-mentors] **|** [Maintainers][exercism-track-maintainers]  **|** [Admins][exercism-admins]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some defined roles in our community:  [Contributors][exercism-contributors] **|** [Mentors][exercism-mentors] **|** [Maintainers][exercism-track-maintainers]  **|** [Admins][exercism-admins]
 
 
 <br>
-<img align="left" width="85" height="80" src="https://github.com/exercism/website-icons/blob/main/exercises/error-handling.svg">
+<img align="left" width="95" height="90" src="https://github.com/exercism/website-icons/blob/main/exercises/error-handling.svg">
 
 &nbsp;&nbsp;&nbsp;&nbsp;We welcome [issues](https://github.com/exercism/go/issues) for problems of any size.
-Feel free to report typographical errors or poor wording.  
-&nbsp;&nbsp;&nbsp;&nbsp;We are most interested in improving the quality of the test suites.  
+Feel free to report typographical errors or poor wording.
+We are most interested in improving the quality of the test suites.  
 &nbsp;&nbsp;&nbsp;&nbsp;You can greatly help us improve the quality of the exercises by filing reports of invalid solutions that pass tests or of valid solutions that fail tests.
 
 
@@ -44,11 +44,11 @@ Feel free to report typographical errors or poor wording.
 <br>
 <img align="left" width="85" height="80" src="https://github.com/exercism/website-icons/blob/main/exercises/diamond.svg">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pull requests are welcome.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pull requests are welcome.  
 You forked, cloned, coded and tested and you have something good? Awesome! 🎉  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Use git to add, commit, and push to your repository.
-Checkout your repository on the web now.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You should see your commit and the invitation to submit a pull request!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Use git to add, commit, and push to your repository.  
+Checkout your repository on the web now.
+You should see your commit and the invitation to submit a pull request!
 
 <img src="img/mars1.png">
 
