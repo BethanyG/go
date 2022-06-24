@@ -28,7 +28,7 @@ Exercises are grouped into **concept** exercises which teach the [Go syllabus][g
 
 
 <br>
-<img align="left" width="95" height="90" src="https://github.com/exercism/website-icons/blob/main/exercises/error-handling.svg">
+<img align="left" width="100" height="95" src="https://github.com/exercism/website-icons/blob/main/exercises/darts.svg">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We welcome [issues](https://github.com/exercism/go/issues) for problems of **any size**.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feel free to report typographical errors or poor wording.  
@@ -45,7 +45,7 @@ Exercises are grouped into **concept** exercises which teach the [Go syllabus][g
 
 
 <br>
-<img align="left" width="100" height="105" src="https://github.com/exercism/website-icons/blob/main/exercises/diamond.svg">
+<img align="left" width="100" height="105" src="https://github.com/exercism/website-icons/blob/main/exercises/developer-privileges.svg">
 
 &nbsp;&nbsp;&nbsp;&nbsp;Pull requests are warmly welcomed.  
 &nbsp;&nbsp;&nbsp;&nbsp;You forked, cloned, coded and tested and you have something good? **_Awesome!_** 🎉  
