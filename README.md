@@ -19,22 +19,23 @@ Exercises are grouped into **concept** exercises which teach the [Go syllabus][g
 <img align="left" width="100" height="90" src="https://github.com/exercism/website-icons/blob/main/exercism/logo-big-bordered.png">
 
 🌟🌟&nbsp; Please take a moment to read our [Code of Conduct][exercism-code-of-conduct].&nbsp;🌟🌟&nbsp;  
-It might also be helpful to look at [Being a Good Community Member][being-a-good-community-member], [The words that we use][the-words-that-we-use], and [Pull Requests][prs].
+It might also be helpful to look at [Being a Good Community Member][being-a-good-community-member], [The words that we use][the-words-that-we-use], and [Pull Requests][prs].  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some defined roles in our community:  [Contributors][exercism-contributors] **|** [Mentors][exercism-mentors] **|** [Maintainers][exercism-track-maintainers]  **|** [Admins][exercism-admins]
+&nbsp;&nbsp;&nbsp;Some defined roles in our community:  [Contributors][exercism-contributors] **|** [Mentors][exercism-mentors] **|** [Maintainers][exercism-track-maintainers]  **|** [Admins][exercism-admins]
 
 
 <br>
 <img align="left" width="95" height="90" src="https://github.com/exercism/website-icons/blob/main/exercises/error-handling.svg">
 
-&nbsp;&nbsp;&nbsp;&nbsp;We welcome [issues](https://github.com/exercism/go/issues) for problems of any size.  
-&nbsp;&nbsp;&nbsp;&nbsp;Feel free to report typographical errors or poor wording.
+&nbsp;&nbsp;&nbsp;&nbsp;We welcome [issues](https://github.com/exercism/go/issues) for problems of **any size**.
+Feel free to report typographical errors or poor wording.  
 &nbsp;&nbsp;&nbsp;&nbsp;We are most interested in improving the quality of the test suites.  
-&nbsp;&nbsp;&nbsp;&nbsp;Help us greatly improve exercise quality by filing reports of invalid solutions that pass tests or of valid solutions that fail tests.
+&nbsp;&nbsp;&nbsp;&nbsp;Help us greatly improve exercise quality by filing reports of invalid solutions that pass tests  
+&nbsp;&nbsp;&nbsp;&nbsp;or of valid solutions that fail tests.
 
 
 <br>
-<img align="left" width="85" height="80" src="https://github.com/exercism/website-icons/blob/main/exercises/word-search.svg">
+<img align="left" width="95" height="90" src="https://github.com/exercism/website-icons/blob/main/exercises/word-search.svg">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_**Want to jump directly into Exercism specifications & detail?**_  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Structure][exercism-track-structure] **|** [Tasks][exercism-tasks] **|** [Concepts][exercism-concepts] **|** [Concept Exercises][concept-exercises] **|** [Practice Exercises][practice-exercises] **|** [Presentation][exercise-presentation]  
@@ -42,12 +43,12 @@ It might also be helpful to look at [Being a Good Community Member][being-a-good
 
 
 <br>
-<img align="left" width="85" height="80" src="https://github.com/exercism/website-icons/blob/main/exercises/diamond.svg">
+<img align="left" width="95" height="90" src="https://github.com/exercism/website-icons/blob/main/exercises/diamond.svg">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pull requests are warmly welcomed.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You forked, cloned, coded and tested and you have something good? **_Awesome!_** 🎉  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Use git to add, commit, and push to your repository.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check out your repository on the web now...  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Use git to add, commit, and push to your repository.
+Check out your repository on the web now...  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You should see your commit and the invitation to submit a pull request!
 
 
