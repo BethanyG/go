@@ -18,12 +18,13 @@ Exercises are grouped into **concept** exercises which teach the [Go syllabus][g
 
 <br>
 
-<img align="left" width="105" height="100" src="https://github.com/exercism/website-icons/blob/main/exercism/logo-big-bordered.png">
+<img align="left" width="110" height="105" src="https://github.com/exercism/website-icons/blob/main/exercism/logo-big-bordered.png">
 
 &nbsp;🌟🌟&nbsp; Please take a moment to read our [Code of Conduct][exercism-code-of-conduct].&nbsp;🌟🌟&nbsp;  
-&nbsp;&nbsp;It might also be helpful to look at [Being a Good Community Member][being-a-good-community-member], [The words that we use][the-words-that-we-use], and [Pull Requests][prs].  
+&nbsp;&nbsp;It might also be helpful to look at [Being a Good Community Member][being-a-good-community-member],  
+&nbsp;[The words that we use][the-words-that-we-use], and [Pull Requests][prs].  
 
-&nbsp;&nbsp;Some defined roles in our community:  [Contributors][exercism-contributors] **|** [Mentors][exercism-mentors] **|** [Maintainers][exercism-track-maintainers]  **|** [Admins][exercism-admins]
+&nbsp;Some defined roles in our community:  [Contributors][exercism-contributors] **|** [Mentors][exercism-mentors] **|** [Maintainers][exercism-track-maintainers]  **|** [Admins][exercism-admins]
 
 
 <br>
@@ -32,7 +33,7 @@ Exercises are grouped into **concept** exercises which teach the [Go syllabus][g
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We welcome [issues](https://github.com/exercism/go/issues) for problems of **any size**.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feel free to report typographical errors or poor wording.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We are most interested in improving the quality of the test suites.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Help us improve exercise quality by filing reports of invalid solutions that pass tests / valid solutions that fail tests.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Help us improve by filing reports of invalid solutions that pass / valid solutions that fail the tests.
 
 
 <br>
@@ -44,22 +45,21 @@ Exercises are grouped into **concept** exercises which teach the [Go syllabus][g
 
 
 <br>
-<img align="left" width="105" height="100" src="https://github.com/exercism/website-icons/blob/main/exercises/diamond.svg">
+<img align="left" width="100" height="105" src="https://github.com/exercism/website-icons/blob/main/exercises/diamond.svg">
 
 &nbsp;&nbsp;&nbsp;&nbsp;Pull requests are warmly welcomed.  
 &nbsp;&nbsp;&nbsp;&nbsp;You forked, cloned, coded and tested and you have something good? **_Awesome!_** 🎉  
-&nbsp;&nbsp;&nbsp;&nbsp;Use git to add, commit, and push to your repository.
-Check out your repository on the web now...  
+&nbsp;&nbsp;&nbsp;&nbsp;Use git to add, commit, and push to your repository.  
 &nbsp;&nbsp;&nbsp;&nbsp;You should see your commit and the invitation to submit a pull request!
 
 
 <br>
-<img align="left" width="90" height="85" src="https://github.com/exercism/website-icons/blob/main/exercises/party-robot.svg">
+&nbsp;<img align="left" width="80" height="80" src="https://github.com/exercism/website-icons/blob/main/exercises/party-robot.svg">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Directions are unlimited.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Directions are unlimited.
 This code is fresh and evolving.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Explore the existing code and you will see some new directions being tried.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your fresh ideas and contributions are welcome. :sparkles:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Explore the existing code and you will see some new directions being tried.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your fresh ideas and contributions are welcome. :sparkles:
 
 <br>
 
