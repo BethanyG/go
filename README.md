@@ -38,7 +38,12 @@ Exercises are grouped into **concept** exercises which teach the [Go syllabus][g
 <br>
 <img align="left" width="100" height="105" src="https://github.com/exercism/website-icons/blob/main/exercises/developer-privileges.svg">
 
-&nbsp;&nbsp;&nbsp;&nbsp;Pull requests are warmly welcomed. See our track [Contributing Guidelines][contributing] for more details.  
+&nbsp;&nbsp;&nbsp;&nbsp;Pull requests are warmly welcomed. See our track [Contributing Guidelines][contributing] for more details.
+
+<br>
+<img align="left" width="100" height="105" src="https://github.com/exercism/website-icons/blob/main/exercises/developer-privileges.svg">
+
+&nbsp;&nbsp;&nbsp;&nbsp;Pull requests are warmly welcomed. See the track [Contributing Guidelines][contributing] for more details.
 &nbsp;&nbsp;&nbsp;&nbsp;You forked, cloned, coded and tested and you have something good? **_Awesome!_** 🎉  
 &nbsp;&nbsp;&nbsp;&nbsp;Use git to add, commit, and push to your repository.  
 &nbsp;&nbsp;&nbsp;&nbsp;You should see your commit and the invitation to submit a pull request!
@@ -50,6 +55,7 @@ Exercises are grouped into **concept** exercises which teach the [Go syllabus][g
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_**Want to jump directly into Exercism specifications & detail?**_  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Structure][exercism-track-structure] **|** [Tasks][exercism-tasks] **|** [Concepts][exercism-concepts] **|** [Concept Exercises][concept-exercises] **|** [Practice Exercises][practice-exercises] **|** [Presentation][exercise-presentation]  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Writing Style Guide][exercism-writing-style] **|** [Markdown Specification][exercism-markdown-specification] (_✨ version in [contributing][website-contributing-section] on exercism.org_)
+
 
 <br>
 &nbsp;<img align="left" width="80" height="80" src="https://github.com/exercism/website-icons/blob/main/exercises/party-robot.svg">
